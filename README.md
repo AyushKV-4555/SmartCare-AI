@@ -29,16 +29,6 @@ It sets up the page settings, displays the welcome message, and provides navigat
 
 ---
 
-## Project Structure
-```
-.
-├── Home.py                # Main landing page
-├── pages/                 # Additional Streamlit pages
-├── models/                # AI/ML models
-├── requirements.txt       # Python dependencies
-└── README.md
-```
-
 ---
 
 ## Requirements
